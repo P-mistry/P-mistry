@@ -1,6 +1,6 @@
+<img src="![cover](https://github.com/P-mistry/P-mistry/assets/75114126/7f9f9152-7c57-4177-a061-0cb075fa91ff)>
 
-<h1 align="cente![cover](https://github.com/P-mistry/P-mistry/assets/75114126/a126e69e-f90a-4569-973a-ff3b9e1239fa)
-r">Hi 👋, I'm parth mistry</h1>
+<h1>Hi 👋, I'm parth mistry</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 🔭 I’m currently working on **Android app**
