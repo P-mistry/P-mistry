@@ -16,4 +16,3 @@
 <p align="left">
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=P-mistry&show_icons=true&locale=en" alt="P-mistry" /></p>
