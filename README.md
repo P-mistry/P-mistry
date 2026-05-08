@@ -12,7 +12,3 @@
 
 - ⚡ Fun fact **I Thin Coffee Is Heart Of The Developer**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
